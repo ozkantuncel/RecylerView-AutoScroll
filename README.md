@@ -10,15 +10,11 @@
 
 App Video
 --------------
-
-
 https://user-images.githubusercontent.com/26549014/231592078-cd500481-b4c0-401c-83fb-07106042ed4a.mp4
-
-
 ```
 MIT License
 
-Copyright (c) 20223 Özkan TUNCEL
+Copyright (c) 2023 Özkan TUNCEL
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
